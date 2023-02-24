@@ -5,3 +5,4 @@ This repository is built step by step in the tutorial.
 This tutorial focusus mainly on Git with Github as a remote
 
 It now includes steps for Github
+I am adding a new line here to test Pushing a Branch to GitHub
